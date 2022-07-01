@@ -1,0 +1,1 @@
+Projeto para treinar JavaScript, desenvolvendo um To-do List para minhas tarefas diárias.
